@@ -9,12 +9,12 @@
      @name = new_name
   end
   
-  def bread
-    @bread
+  def breed
+    @breed
    end
    
-   def bread=(bread)
-     @bread = bread
+   def breed=(breed)
+     @breed = breed
   end
 
    
