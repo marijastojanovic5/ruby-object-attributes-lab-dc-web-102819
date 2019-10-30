@@ -1,19 +1,19 @@
-class Dog
-  
- def name
-     @name
-   end
+
+  class Dog
  
-  def name=(new_name)
-     @name = new_name
-   end
-    def bread
-     @bread
-   end
+  def name=(dogs_name)
+    @name = dogs_name
+  end
  
-  def bread=("Beagle")
-     @bread = 
-   end
+  def name
+    @name
+  end
+end
+ 
+lassie = Dog.new
+lassie.name = "Beagle"
+ 
+puts lassie.name
    
    
  
