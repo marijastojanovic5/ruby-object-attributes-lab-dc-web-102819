@@ -13,8 +13,8 @@
     @bread
    end
    
-   def bread=(new_name)
-     @bread = new_name
+   def bread=(bread)
+     @bread = bread
   end
 
    
