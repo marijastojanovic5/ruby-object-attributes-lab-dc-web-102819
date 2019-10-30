@@ -10,10 +10,10 @@
   end
 end
  
-lassie = Dog.new
-lassie.name = "Beagle"
+beagle = Dog.new
+beagle.name = "Beagle"
  
-puts lassie.name
+puts beagle.name
    
    
  
