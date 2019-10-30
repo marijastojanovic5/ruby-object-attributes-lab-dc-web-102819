@@ -10,10 +10,7 @@
   end
 end
  
-beagle = Dog.new
-beagle.name = "Beagle"
- 
-puts beagle.name
+
    
    
  
